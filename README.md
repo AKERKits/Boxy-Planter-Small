@@ -4,7 +4,7 @@
 
 The **AKER Boxy Planter-Small** is a planter designed to be fabricated using a CNC router and standard sheet materials. For more information, visit the [AKER Website](http://www.akerkits.com).
 
-![Boxy Planter-Small](https://github.com/AKERKits/Husky-Planter-Small/blob/master/Images/AKER%20-%20Husky%20Planter-Small%20-%20v1.0%20-%20Master%20Assembly%20Cropped-min.jpg)
+![Boxy Planter-Small](https://github.com/AKERKits/Boxy-Planter-Small/blob/master/Images/AKER%20-%20Boxy%20Planter-Small%20-%20v1.0%20-%20Master%20Assembly%20Cropped-min.jpg)
 
 *Source Files*
 
